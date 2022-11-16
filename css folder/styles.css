@@ -48,6 +48,10 @@ a{
     text-decoration: none;
 }
 
+#social-icon{
+    color: #11999E;
+}
+
 a:hover{
     color: #eaf6f6;
 }
